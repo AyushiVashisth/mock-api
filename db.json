@@ -1,3 +1,128 @@
 {
-    "data":[]
-}
+    "users": [
+      {
+        "id": 1,
+        "username": "Ayushi",
+        "email": "ayushi@gmail.com",
+        "password": "ayushi"
+      },
+      {
+        "username": "ashu",
+        "email": "ashu@gmail.com",
+        "password": "ashu",
+        "isDoctor": true,
+        "id": 2
+      },
+      {
+        "username": "maya",
+        "email": "maya@gmail.com",
+        "password": "maya",
+        "isDoctor": true,
+        "id": 3
+      },
+      {
+        "username": "ankita",
+        "email": "ankita@gmail.com",
+        "password": "ankita",
+        "isDoctor": false,
+        "id": 4
+      },
+      {
+        "username": "abhi",
+        "email": "abhi@gmail.com",
+        "password": "abhi",
+        "isDoctor": false,
+        "id": 5
+      }
+    ],
+    "appointments": [
+      {
+        "id": 2,
+        "name": "Mark Johnson",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKwHZxJcXIJo0DZcJeGz-xUxw_1601_pB44l6JLB6UfixSpR7pwKadqtg6q4mzzqt2dA&usqp=CAU",
+        "specialization": "Pediatrician",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      },
+      {
+        "id": 2,
+        "name": "Mark Johnson",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKwHZxJcXIJo0DZcJeGz-xUxw_1601_pB44l6JLB6UfixSpR7pwKadqtg6q4mzzqt2dA&usqp=CAU",
+        "specialization": "Pediatrician",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      },
+      {
+        "id": 3,
+        "name": "Jane Doe",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YR_d4oZnpVmrRcD2nn8y8gx6nk1jb85rlsgkuwAIYpC3fT2ZUhmrBpfhSnTZrG8K4ao&usqp=CAU",
+        "specialization": "Cardiologist",
+        "experience": 10,
+        "location": "Los Angeles",
+        "date": "2023-04-05T12:00:00.000Z",
+        "slots": 0,
+        "fee": 150
+      },
+      {
+        "id": 4,
+        "name": "Mark Johnson",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKwHZxJcXIJo0DZcJeGz-xUxw_1601_pB44l6JLB6UfixSpR7pwKadqtg6q4mzzqt2dA&usqp=CAU",
+        "specialization": "Pediatrician",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      },
+      {
+        "id": 5,
+        "name": "Mark Johnson",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKwHZxJcXIJo0DZcJeGz-xUxw_1601_pB44l6JLB6UfixSpR7pwKadqtg6q4mzzqt2dA&usqp=CAU",
+        "specialization": "Psychiatrist",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      },
+      {
+        "id": 6,
+        "name": "Mark Johnson",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKwHZxJcXIJo0DZcJeGz-xUxw_1601_pB44l6JLB6UfixSpR7pwKadqtg6q4mzzqt2dA&usqp=CAU",
+        "specialization": "Pediatrician",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      },
+      {
+        "id": 7,
+        "name": "Jane Doe",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-YR_d4oZnpVmrRcD2nn8y8gx6nk1jb85rlsgkuwAIYpC3fT2ZUhmrBpfhSnTZrG8K4ao&usqp=CAU",
+        "specialization": "Dermatologist",
+        "experience": 10,
+        "location": "Los Angeles",
+        "date": "2023-04-05T12:00:00.000Z",
+        "slots": 0,
+        "fee": 150
+      },
+      {
+        "id": 8,
+        "name": "Mark Johnson",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHKwHZxJcXIJo0DZcJeGz-xUxw_1601_pB44l6JLB6UfixSpR7pwKadqtg6q4mzzqt2dA&usqp=CAU",
+        "specialization": "Pediatrician",
+        "experience": 5,
+        "location": "Chicago",
+        "date": "2023-04-06T09:30:00.000Z",
+        "slots": 1,
+        "fee": 100
+      }
+    ]
+  }
