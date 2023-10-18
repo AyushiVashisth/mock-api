@@ -1,5 +1,16 @@
 {
-    "onefinitylabsApi":[],
+    "onefinitylabsApi":[
+        {
+"First Name": "Raja.",
+"Last Name": "Sharma.",
+"State": "Delhi.",
+"District": "Delhi.",
+"Village": "BURARI.",
+"PAN Number": "123456789.",
+"Aadhaar Number": "123456789.",
+"id": 1
+}
+    ],
     "users": [
       {
         "id": 1,
